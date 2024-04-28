@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Lucky Pick
+Exec=/usr/bin/python3 /home/hao/Documents/BP/choose.py
+Icon=/home/hao/Documents/BP/lucky.jpeg
+Terminal=false
